@@ -8,13 +8,15 @@ Unreal Engine version: 4.25
 
 Wall run - Move diagonally towards wall to wall run
 
-Blink - Hold E to aim and Release (Cancel with RMB)
+Blink - Slow down time while aiming and teleport a short distance forward. Cancel with RMB.
 
 Slide - croutch while sprinting
 
 ## Controls:
 
 Shoot - LMB
+
+Blink - E
 
 Move - WASD
 
