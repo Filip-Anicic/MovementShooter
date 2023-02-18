@@ -1,4 +1,4 @@
-# WallRun - Unreal Engine 4 movement shooter prototype
+# Movement Shooter - an Unreal Engine 4 movement shooter prototype
 
 Old prototype for when I was learning UE4 and also playing Titanfall 2 and Dishonored 2.
 
